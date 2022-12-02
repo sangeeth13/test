@@ -1,1 +1,6 @@
 hi welcome to git learning
+git commands are in the below
+git add
+git commit
+git push
+
